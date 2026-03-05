@@ -1,0 +1,24 @@
+id: 9d7cd7eb-883a-4b08-a12f-1ffd7cde5bcb
+name: Data Analyst AI Agent
+type: 1
+canvas_id: 70f7af1b-4527-42dc-a322-806ffa7dace6
+blocks:
+- auto_size: false
+  canvas_id: 70f7af1b-4527-42dc-a322-806ffa7dace6
+  compute_settings: null
+  description: AI-powered data analyst using GPT-4 to answer questions by generating
+    and executing Python code
+  height: 1000
+  id: 9550a3de-e627-442c-bec1-74cb7ef45759
+  layer_id: 9d7cd7eb-883a-4b08-a12f-1ffd7cde5bcb
+  name: data_analyst_agent
+  parent_id: null
+  properties:
+    interactive_execution: true
+  status: 1
+  type: 1
+  variables: null
+  width: 1600
+  x: 0
+  y: 0
+edges: []
